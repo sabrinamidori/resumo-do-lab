@@ -19,3 +19,21 @@ A computação em nuvem é o fornecimento de serviços de computação pela Inte
   - São fornecidos preços para recursos e serviços individuais.
   - A cobrança é feita com base no seu uso real.
 
+### Benefícios da Nuvem
+- Alta disponibilidade: concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos que possam ocorrer.
+- Ecalabilidade: refere-se à capacidade de ajustar recursos para atender à demanda.
+  - Com a escala vertical, se você estivesse desenvolvendo um aplicativo e precisasse de mais capacidade de processamento, poderia escalar verticalmente para adicionar mais CPUs ou RAM à máquina virtual
+- Elasticidade: expansão e retração de recursos implantados maneira automática ou manual para atender saltos repentinos de demandas.
+- Confiabilidade: Devido ao design descentralizado, a nuvem naturalmente dá suporte a uma infraestrutura confiável e resiliente, além de permitir que você tenha recursos implantados em várias regiões do mundo.
+- Previsibilidade: permite que você avance com confiança, seja no desempenho ou no custo. Ambas são influenciadas pelo Microsoft Azure Well-Architected Framework.
+- Segurança: A nuvem oferece ferramentas de segurança que atendem às necessidades dos clientes mas, é importante lembrar que a implementação de muitas delas devem ser realizadas pelo cliente.
+- Governança: A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação. Ao estabelecer uma presença de governança o mais cedo possível, você poderá manter sua presença de nuvem atualizada, protegida e bem gerenciada.
+- Gerenciabilidade: O gerenciamento da nuvem diz respeito a gerenciar seus recursos de nuvem. Por exemplo:
+  - Escalar automaticamente a implantação de recursos com base na necessidade.
+  - Implantar recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual.
+
+
+
+
+
+
