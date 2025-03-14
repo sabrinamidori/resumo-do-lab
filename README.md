@@ -32,6 +32,26 @@ A computação em nuvem é o fornecimento de serviços de computação pela Inte
   - Escalar automaticamente a implantação de recursos com base na necessidade.
   - Implantar recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual.
 
+### Tipos de serviço de nuvem
+
+- IaaS (infraestrutura como serviço)
+    Cria uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem.
+  - O serviço de nuvem mais flexível.
+  - Você configura e gerencia o hardware para seu aplicativo.
+- PaaS (plataforma como serviço)
+    Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente.
+  - Focado no desenvolvimento de aplicativos.
+  - O gerenciamento de plataforma é realizado pelo provedor de nuvem.
+- SaaS (Software como Serviço)
+  Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários.
+  - Modelo de preço de pagamento conforme o uso.
+  - Os usuários pagam pelo software que utilizam em um modelo de assinatura.
+
+#### Modelo de responsabilidade compartilhada:
+![image](https://github.com/user-attachments/assets/56caa4ef-be53-454e-803a-63b5b618dd96)
+
+
+
 
 
 
